@@ -1,4 +1,19 @@
 Title,Location,Price,Area,Number of rooms
+                        Apartment Badhuisweg                            ,            2587 CC Den Haag (Rijslag)        ,"                €1,100 per month            ",41 m²,2 rooms
+                        Apartment Hemsterhuisstraat                            ,            2513 RC Den Haag (Zeeheldenkwartier)        ,"                €2,295 per month            ",120 m²,4 rooms
+                        Apartment Maaswijkstraat                            ,            2586 CD Den Haag (Scheveningen Badplaats)        ,                €775 per month            ,35 m²,1 room
+                        Apartment Elandstraat                            ,            2513 GS Den Haag (Zeeheldenkwartier)        ,                €997 per month            ,50 m²,2 rooms
+                        Apartment Sportlaan                            ,            2566 LD Den Haag (Bomenbuurt)        ,"                €1,695 per month            ",60 m²,1 room
+                        Apartment Prins Willem-Alexanderweg 123                            ,            2595 BT Den Haag (Bezuidenhout-West)        ,"                €2,000 per month            ",100 m²,3 rooms
+                        Apartment Oude Molstraat                            ,            2513 BB Den Haag (Kortenbos)        ,"                €2,850 per month            ",142 m²,3 rooms
+                        Apartment Frederikstraat                            ,            2514 LL Den Haag (Willemspark)        ,"                €1,450 per month            ",80 m²,3 rooms
+                        Apartment Waldorpstraat 570 C                            ,            2521 CK Den Haag (Laakhaven-West)        ,"                €1,250 per month            ",78 m²,3 rooms
+                        Apartment Waldorpstraat 305                            ,            2521 CJ Den Haag (Laakhaven-West)        ,                €650 per month            ,29 m²,1 room
+                        Apartment Laan van Meerdervoort 1309                            ,            2555 BG Den Haag (Bohemen en Meer en Bos)        ,"                €1,650 per month            ",91 m²,3 rooms
+                        Apartment Kazernestraat                            ,            2514 CS Den Haag (Voorhout)        ,"                €1,655 per month            ",160 m²,5 rooms
+                        Apartment Jan ten Brinkstraat 108                            ,            2522 JG Den Haag (Laakkwartier-Oost)        ,                €815 per month            ,62 m²,2 rooms
+                        Apartment Wenckebachstraat                            ,            2522 CK Den Haag (Noordpolderbuurt)        ,"                €1,300 per month            ",66 m²,3 rooms
+                        Apartment Loenensestraat                            ,            2574 RH Den Haag (Rustenburg)        ,"                €1,300 per month            ",74 m²,3 rooms
                         Studio Valkenbosplein 23                            ,            2563 CC Den Haag (Valkenboskwartier)        ,"                €1,150 per month            ",58 m²,1 room
                         Apartment Laakkade                            ,            2521 XK Den Haag (Laakkwartier-Oost)        ,"                €1,175 per month            ",68 m²,3 rooms
                         Apartment Javastraat 47                            ,            2585 AE Den Haag (Willemspark)        ,"                €1,325 per month            ",60 m²,2 rooms
@@ -14,18 +29,3 @@ Title,Location,Price,Area,Number of rooms
                         Apartment Antheunisstraat 213                            ,            2522 ZD Den Haag (Laakkwartier-Oost)        ,"                €1,150 per month            ",60 m²,3 rooms
                         Apartment Pahudstraat 98                            ,            2593 TJ Den Haag (Bezuidenhout-Oost)        ,"                €1,600 per month            ",75 m²,3 rooms
                         Apartment Dibbetsstraat                            ,            2518 PN Den Haag (Rond de Energiecentrale)        ,"                €1,550 per month            ",87 m²,3 rooms
-                        Apartment Paets van Troostwijkstraat 119 B                            ,            2522 DN Den Haag (Laakkwartier-Oost)        ,"                €1,750 per month            ",127 m²,5 rooms
-                        Apartment Nieuwe Parklaan 99 G.                            ,            2587 BN Den Haag (Westbroekpark)        ,"                €2,250 per month            ",103 m²,4 rooms
-                        Apartment Johannes Camphuijsstraat 129                            ,            2593 CK Den Haag (Bezuidenhout-Oost)        ,"                €1,500 per month            ",76 m²,4 rooms
-                        House Purperreigerstraat 34                            ,            2492 TD Den Haag (De Vissen)        ,"                €2,750 per month            ",171 m²,6 rooms
-                        Apartment Sweelinckplein 33 H                            ,            2517 GN Den Haag (Sweelinckplein en omgeving)        ,"                €1,750 per month            ",82 m²,3 rooms
-                        Apartment Isabellaland                            ,            2591 EK Den Haag (Landen)        ,"                €1,150 per month            ",55 m²,2 rooms
-                        Apartment 2e De Carpentierstraat                            ,            2595 HM Den Haag (Bezuidenhout-Midden)        ,"                €1,495 per month            ",87 m²,3 rooms
-                        House Juliana van Stolberglaan                            ,            2595 CN Den Haag (Bezuidenhout-Oost)        ,                €567 per month            ,22 m²,2 rooms
-                        House Berkenbosch Blokstraat                            ,            2586 HD Den Haag (Scheveningen Badplaats)        ,"                €7,500 per month            ",550 m²,12 rooms
-                        Apartment Noorderbeekdwarsstraat                            ,            2562 XX Den Haag (Valkenboskwartier)        ,"                €1,050 per month            ",62 m²,3 rooms
-                        Apartment 2e Messstraat                            ,            2586 XD Den Haag (Scheveningen Badplaats)        ,"                €1,250 per month            ",40 m²,2 rooms
-                        House Helmstraat 15                            ,            2584 AR Den Haag (Statenkwartier)        ,"                €4,250 per month            ",241 m²,8 rooms
-                        Apartment Frederik Hendriklaan                            ,            2582 BD Den Haag (Statenkwartier)        ,"                €1,300 per month            ",78 m²,2 rooms
-                        Apartment Elviraland                            ,            2591 GR Den Haag (Landen)        ,"                €1,195 per month            ",61 m²,2 rooms
-                        Apartment Hofweg 29                            ,            2511 AA Den Haag (Voorhout)        ,"                €3,500 per month            ",177 m²,4 rooms
